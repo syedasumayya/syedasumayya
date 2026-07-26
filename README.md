@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Stats
 
-![Syeda's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedasumayya&show_icons=true&theme=radical&border_radius=14&hide_border=true)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=syedasumayya&theme=radical&hide_border=true&border_radius=14)
 
 ---
@@ -64,10 +64,6 @@
 
 ---
 
-## 📈 Profile Summary
-
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedasumayya&theme=radical)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedasumayya&theme=radical)
 
 ---
 
