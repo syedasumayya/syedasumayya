@@ -69,8 +69,11 @@ Building intelligent systems through Artificial Intelligence, Robotics, and Mode
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedasumayya&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=syedasumayya&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedasumayya&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=syedasumayya&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -81,11 +84,7 @@ Building intelligent systems through Artificial Intelligence, Robotics, and Mode
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedasumayya&theme=tokyo-night&hide_border=true"/>
 </p>
 ---
-## 📈 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasumayya&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
 
 # 🚀 Featured Projects
 
