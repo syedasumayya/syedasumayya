@@ -1,97 +1,300 @@
-# Hey, I'm Syeda Sumayya 👋
+<!-- ============================== -->
+<!--          PROFILE HEADER        -->
+<!-- ============================== -->
 
-### Robotics Engineer | AI Engineer | Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Syeda Sumayya</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Where+Robotics+Meets+Intelligence;Training+AI+Models+for+Tomorrow's+Machines;Building+Full-Stack+Apps+that+Ship)
+<h3 align="center">
+🤖 Robotics Engineer • 🧠 AI Engineer • 💻 Full-Stack Developer
+</h3>
 
----
+<p align="center">
+Building Intelligent Software • Autonomous Systems • AI Solutions
+</p>
 
-## 🤖 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Robotics+Engineer;Full-Stack+Developer;Computer+Vision+Developer;Building+Intelligent+Systems;Welcome+to+my+GitHub!" />
+</p>
 
-- 🦾 Robotics Engineer building autonomous systems and intelligent machines
-- 🧠 AI Engineer training and deploying ML/AI models
-- 💻 Full-Stack Developer working across the MERN stack and modern frontend tooling
-- 🚗 Currently building an **Autonomous Car** project in Python
-- 🩺 Built a **Skin Cancer Detection** AI application
-- 🌐 Also shipped a personal **portfolio** in Next.js + TypeScript + Tailwind
-- ⚡ Fun fact: I debug robots by day and React components by night
+<p align="center">
+<a href="https://github.com/syedasumayya">
+<img src="https://komarev.com/ghpvc/?username=syedasumayya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</a>
 
----
+<img src="https://img.shields.io/github/followers/syedasumayya?style=for-the-badge"/>
 
-## ⚙️ Tech Stack
-
-**Robotics & AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Full-Stack Development**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/github/stars/syedasumayya?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
+```python
+class SyedaSumayya:
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=syedasumayya&theme=radical&hide_border=true&border_radius=14)
+    def __init__(self):
+        self.role = [
+            "AI Engineer",
+            "Robotics Engineer",
+            "Full-Stack Developer"
+        ]
+
+        self.focus = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "Robotics",
+            "Autonomous Systems",
+            "Web Development"
+        ]
+
+        self.current_projects = [
+            "Autonomous Vehicle",
+            "AI LearnHub",
+            "GridCore360",
+            "Skin Cancer Detection AI"
+        ]
+
+        self.learning = [
+            "Deep Learning",
+            "ROS",
+            "LLMs",
+            "AI Agents"
+        ]
+
+    def motto(self):
+        return "Where Robotics Meets Intelligence 🚀"
+```
 
 ---
 
-## 🗺️ Contribution Graph
+# 💻 Tech Stack
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedasumayya&bg_color=00000000&color=F77CE5&line=00E1FF&point=7CFB7C&area_color=00000000&hide_border=true)
+## 🤖 Artificial Intelligence & Robotics
 
----
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
 
----
+</p>
 
-## 🚀 Featured Projects
+**Also Experienced With**
 
-| Project | Description | Stack |
-|---|---|---|
-| 🚗 **Autonomous-Car** | Self-driving car project exploring perception and control | Python |
-| 🩺 **skin-cancer-detection** | Medical AI application designed to detect skin cancer | Python, TypeScript, AI, SQLite |
-| 🌐 **portfolio** | Personal portfolio site — AI Engineer, Robotics Developer & Full-Stack Web Developer | TypeScript, Next.js, Tailwind CSS |
-
----
-
-## 🧪 Currently Working On
-
-- 🤖 Autonomous vehicle perception and control systems
-- 🧠 Fine-tuning and deploying AI models for real-world use
-- 🩻 Medical AI applications (skin cancer detection & beyond)
-- ⚡ Full-stack web apps with Next.js, TypeScript & Tailwind
+- NumPy
+- Pandas
+- Scikit-Learn
+- Computer Vision
+- Machine Learning
+- Deep Learning
 
 ---
 
-## 💬 Quote
+## 🌐 Full Stack Development
 
-> **"Where robotics meets intelligence."**
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind"/>
+
+</p>
 
 ---
 
-### 📫 Let's Connect
+## 🛠 Tools
 
-Feel free to explore my repositories or reach out — always happy to collaborate on robotics, AI, or full-stack projects!
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Autonomous Car
+
+> Self-driving vehicle exploring perception, lane detection and autonomous navigation using Computer Vision.
+
+### Tech
+
+`Python`
+`OpenCV`
+`NumPy`
+`Computer Vision`
+
+---
+
+## 🧠 AI LearnHub
+
+> AI-powered adaptive learning platform with intelligent recommendations, AI-generated quizzes and personalized education.
+
+### Tech
+
+`Next.js`
+`Firebase`
+`TypeScript`
+`Tailwind CSS`
+`AI APIs`
+
+---
+
+## 🚀 GridCore360
+
+> Enterprise-grade AI & BPO website with complete backend, recruitment system and lead management.
+
+### Tech
+
+`Next.js`
+
+`Firebase`
+
+`Tailwind CSS`
+
+`Framer Motion`
+
+---
+
+## 🩺 Skin Cancer Detection AI
+
+> AI-powered medical application for detecting skin cancer from dermoscopic images.
+
+### Tech
+
+`Python`
+
+`TensorFlow`
+
+`SQLite`
+
+`TypeScript`
+
+---
+
+## 🌐 Personal Portfolio
+
+> Modern portfolio built with Next.js showcasing AI, Robotics and Full-Stack projects.
+
+### Tech
+
+`Next.js`
+
+`TypeScript`
+
+`Tailwind CSS`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=syedasumayya&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedasumayya&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasumayya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedasumayya&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=syedasumayya&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# ⚡ Current Focus
+
+✔ Autonomous Vehicles
+
+✔ Artificial Intelligence
+
+✔ Machine Learning
+
+✔ Computer Vision
+
+✔ Robotics
+
+✔ AI Agents
+
+✔ Full-Stack Development
+
+---
+
+# 🌟 Fun Fact
+
+> 🤖 I debug robots by day and React components by night.
+
+---
+
+# 💬 Favorite Quote
+
+> **"Where Robotics Meets Intelligence."**
+
+---
+
+# 📫 Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/syedasumayya">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Replace with your LinkedIn -->
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<!-- Replace with your Portfolio -->
+
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+<!-- Replace with your Email -->
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub! ⭐
+
+</h3>
+
+<p align="center">
+
+<i>Let's build intelligent systems together.</i>
+
+</p>
