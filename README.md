@@ -20,7 +20,7 @@ Building intelligent systems through Artificial Intelligence, Robotics, and Mode
 - 🧠 AI Engineer training and deploying Machine Learning & AI models
 - 💻 Full-Stack Developer working across modern web technologies
 - 🚗 Currently building an **Autonomous Car** using Python & Computer Vision
-- 🎓 Software Engineering Student passionate about AI, Robotics & Intelligent Systems
+- 🎓 Software Engineer passionate about AI, Robotics & Intelligent Systems
 - 🌱 Exploring Deep Learning, AI Agents, and Computer Vision
 - ⚡ Fun fact: I debug robots by day and React components by night.
 
@@ -66,23 +66,26 @@ Building intelligent systems through Artificial Intelligence, Robotics, and Mode
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syedasumayya&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=syedasumayya&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedasumayya&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=syedasumayya&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
 
-# 🗺️ Contribution Graph
+## 🗺️ Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedasumayya&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasumayya&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
 
 # 🚀 Featured Projects
 
