@@ -1,15 +1,11 @@
 # Syeda Sumayya
 
-### AI Solutions Engineer · Backend Developer · Robotics Engineer
+<h3 align="center"> 🧠 AI Solutions Engineer & Researcher | ⚙️ Backend Developer | 🤖 Robotics Engineer </h3>
 
 I build **AI-powered software, backend systems, and intelligent robotic applications** for real-world use cases.
 
 My work spans **agentic AI, machine learning, computer vision, API development, embedded systems, and robotics**, with a focus on turning research and prototypes into reliable software systems.
 
-<p align="center">
-  <a href="https://github.com/syedasumayya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
