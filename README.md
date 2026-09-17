@@ -1,143 +1,235 @@
-# Hey, I'm Syeda Sumayya 👋
+# Syeda Sumayya
 
-<h3 align="center">
-🧠 AI Solutions Engineer & Researcher | ⚙️ Backend Developer | 🤖 Robotics Engineer
-</h3>
+### AI Solutions Engineer · Backend Developer · Robotics Engineer
 
-<p align="center">
-Engineering AI solutions for real-world problems — combining agentic AI, backend systems, and robotics.
-</p>
+I build **AI-powered software, backend systems, and intelligent robotic applications** for real-world use cases.
+
+My work spans **agentic AI, machine learning, computer vision, API development, embedded systems, and robotics**, with a focus on turning research and prototypes into reliable software systems.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+Solutions+Engineer;Backend+Developer;Robotics+%26+Embedded+Systems;AI+Agents+%7C+LangGraph;Researcher+%26+Builder" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<a href="https://github.com/syedasumayya"><img src="https://img.shields.io/github/followers/syedasumayya?label=Follow&style=social"/></a>
-<img src="https://komarev.com/ghpvc/?username=syedasumayya&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <a href="https://github.com/syedasumayya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## About
 
-- ⚙️ **Backend Developer** designing scalable APIs, services, and system architecture
-- 🧠 **AI Solutions Engineer & Researcher** building agentic AI systems and applied ML solutions for real-world problems
-- 🦾 **Robotics Engineer** working across embedded systems, sensors, and autonomous hardware
-- 🔗 Building with **LangGraph & LangChain** for multi-agent orchestration and LLM pipelines
-- 📡 Working with **Raspberry Pi, ESP32, Arduino Uno, and LoRa** for embedded & IoT robotics
-- 🌱 Researching Deep Learning, Computer Vision, and intelligent autonomous systems
+* 🧠 **AI Solutions Engineering** — Applied ML, computer vision, LLM applications, RAG, and agentic workflows
+* ⚙️ **Backend Engineering** — REST APIs, FastAPI, Node.js, service architecture, databases, and deployment
+* 🤖 **Robotics Engineering** — ROS, embedded systems, sensors, autonomous navigation, and robotic perception
+* 🔗 **Agentic AI** — LangGraph and LangChain for workflow orchestration and multi-agent systems
+* 🔬 **Research & Development** — Exploring intelligent autonomous systems and practical applications of AI
 
 ---
 
-# ⚙️ Tech Stack
+## Technical Stack
 
-### 🧠 AI, Agents & Machine Learning
+### AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/PyTorch-1F2937?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/TensorFlow-1F2937?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1F2937?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/OpenCV-1F2937?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/NumPy-1F2937?style=flat-square&logo=numpy&logoColor=4D77CF"/>
+  <img src="https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas&logoColor=150458"/>
 </p>
 
-### ⚙️ Backend Development
+**Focus:** Deep Learning · Computer Vision · NLP · Model Training · RAG · LLM Applications
+
+### Agentic AI
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat-square&logo=langchain&logoColor=00A67E"/>
+  <img src="https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=00A67E"/>
 </p>
 
-### 🤖 Robotics & Embedded Systems
+**Focus:** AI Agents · Multi-Agent Workflows · Tool Calling · RAG Pipelines · LLM Orchestration
+
+### Backend & APIs
 
 <p>
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/LoRa-2E7D32?style=for-the-badge&logo=lora&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=internetcomputer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/SQLite-1F2937?style=flat-square&logo=sqlite&logoColor=87CEEB"/>
+  <img src="https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=FFCA28"/>
 </p>
 
-### 🛠 Tools & Platforms
+**Focus:** REST APIs · Backend Services · Data Validation · Authentication · Database Integration
+
+### Robotics & Embedded Systems
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS_2-1F2937?style=flat-square&logo=ros&logoColor=22314E"/>
+  <img src="https://img.shields.io/badge/C++-1F2937?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/C-1F2937?style=flat-square&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-1F2937?style=flat-square&logo=raspberrypi&logoColor=C51A4A"/>
+  <img src="https://img.shields.io/badge/ESP32-1F2937?style=flat-square&logo=espressif&logoColor=E7352C"/>
+  <img src="https://img.shields.io/badge/Arduino-1F2937?style=flat-square&logo=arduino&logoColor=00979D"/>
+  <img src="https://img.shields.io/badge/LoRa-1F2937?style=flat-square&logo=lora&logoColor=00AEEF"/>
+</p>
+
+**Focus:** ROS 2 · Sensors · Embedded Systems · Computer Vision · Autonomous Systems · IoT
+
+### Engineering Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Postman-1F2937?style=flat-square&logo=postman&logoColor=FF6C37"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
+
+### 🚀 GridCore360
+
+Enterprise-oriented full-stack platform combining AI-driven workflows with business process management.
+
+**Highlights**
+
+* Lead generation and management
+* Career portal
+* Firebase-backed services
+* Responsive modern frontend
+* Modular full-stack architecture
+
+**Stack:** Next.js · TypeScript · Firebase · Tailwind CSS · Framer Motion
+
+---
+
+### 🎓 AI LearnHub
+
+AI-powered learning platform designed around personalized learning and automated assessment.
+
+**Highlights**
+
+* AI-generated quizzes
+* Personalized learning workflows
+* Progress tracking
+* Authentication and user management
+* Full-stack application architecture
+
+**Stack:** Next.js · TypeScript · Firebase · Node.js · AI APIs
+
+---
+
+### 🤖 Autonomous Car
+
+Computer-vision-based autonomous vehicle project combining perception and embedded control.
+
+**Highlights**
+
+* Lane detection
+* Object detection
+* Real-time camera processing
+* Motor control
+* Autonomous navigation experiments
+
+**Stack:** Python · OpenCV · NumPy · Raspberry Pi
+
+---
+
+### 🩺 Skin Cancer Detection AI
+
+Deep-learning application for classifying dermoscopic images to assist with skin-lesion analysis.
+
+**Highlights**
+
+* Image preprocessing
+* Deep-learning model training
+* Model inference pipeline
+* Backend integration
+* Application interface
+
+**Stack:** Python · TensorFlow · TypeScript · SQLite
+
+---
+
+### 🧠 Agentic AI Workflows
+
+Experiments and implementations of graph-based AI agents for structured reasoning and automated task execution.
+
+**Focus**
+
+* Multi-agent orchestration
+* Tool-based workflows
+* State management
+* LLM pipelines
+* Agent coordination
+
+**Stack:** Python · LangGraph · LangChain
+
+---
+
+### 📡 IoT Sensor Network
+
+Embedded wireless sensor system for collecting and transmitting data over long-range communication networks.
+
+**Highlights**
+
+* Sensor data acquisition
+* Low-power embedded systems
+* Long-range wireless communication
+* Remote monitoring
+
+**Stack:** ESP32 · Arduino · LoRa · C++
+
+---
+
+## Current Focus
+
+```text
+AI Engineering
+├── Agentic AI & LLM Systems
+├── RAG & Intelligent Applications
+├── Computer Vision
+└── Applied Machine Learning
+
+Backend Engineering
+├── FastAPI & REST APIs
+├── Service Architecture
+├── Databases
+└── Deployment & Docker
+
+Robotics
+├── ROS 2
+├── Embedded Systems
+├── Sensors & Actuators
+└── Autonomous Systems
+```
+
+---
+
+## Engineering Interests
+
+**Artificial Intelligence** · **Agentic Systems** · **Computer Vision** · **Robotics** · **Backend Architecture** · **Embedded Systems** · **Autonomous Systems**
+
+---
+
+## Connect
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedasumayya&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=syedasumayya&theme=tokyonight"/>
+  <a href="https://github.com/syedasumayya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasumayya&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🗺️ Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedasumayya&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🚀 **GridCore360** | Enterprise-grade AI & BPO platform featuring a cybernetic UI, lead generation system, career portal, Firebase backend, and modern full-stack architecture. | Next.js, TypeScript, Firebase, Tailwind CSS, Framer Motion |
-| 🎓 **AI LearnHub** | AI-powered adaptive learning platform delivering personalized education through intelligent content, AI-generated quizzes, and progress tracking. | Next.js, TypeScript, Firebase, Tailwind CSS, AI APIs |
-| 🚗 **Autonomous Car** | Self-driving car project exploring perception, lane detection, object detection, and autonomous navigation using Computer Vision. | Python, OpenCV, NumPy, Raspberry Pi |
-| 🩺 **Skin Cancer Detection AI** | AI-powered medical application for detecting skin cancer from dermoscopic images using deep learning. | Python, TensorFlow, TypeScript, SQLite |
-| 🤖 **Agentic AI Workflows** | Multi-agent AI systems for automated reasoning and task orchestration using graph-based agent design. | Python, LangGraph, LangChain |
-| 📡 **IoT Sensor Network** | Long-range wireless sensor network for remote data collection and monitoring using low-power embedded hardware. | ESP32, Arduino Uno, LoRa, C++ |
-
----
-
-## 🧪 Currently Working On
-
-- 🧠 Agentic AI systems with LangGraph for real-world problem solving
-- ⚙️ Scalable backend architectures & API design
-- 🤖 Embedded robotics with ESP32, Raspberry Pi, Arduino & LoRa
-
----
-
-## 💬 Quote
-
-> **"I don't just build systems — I engineer solutions that think, adapt, and solve real problems."**
-
----
-
-## 📫 Let's Connect
-
-Feel free to explore my repositories or reach out — I'm always happy to collaborate on **AI Solutions, Agentic Systems, Backend Development,** and **Robotics/Embedded** projects.
-
-<p align="center">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <sub>Building intelligent systems at the intersection of AI, software, and robotics.</sub>
 </p>
