@@ -1,6 +1,8 @@
 # Syeda Sumayya Zahid
 
 
+<h3 align="center"> 🧠 AI Solutions Engineer & Researcher | ⚙️ Backend Developer | 🤖 Robotics Engineer </h3>
+
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+Solutions+Engineer;Backend+Developer;Robotics+%26+Embedded+Systems;AI+Agents+%7C+LangGraph;Researcher+%26+Builder" alt="Typing SVG" /> </p>
 
 I build **AI-powered software, backend systems, and intelligent robotic applications** for real-world use cases.
