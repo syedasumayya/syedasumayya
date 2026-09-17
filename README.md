@@ -9,9 +9,7 @@ I build **AI-powered software, backend systems, and intelligent robotic applicat
 
 My work spans **agentic AI, machine learning, computer vision, API development, embedded systems, and robotics**, with a focus on turning research and prototypes into reliable software systems.
 
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+ <p align="center"> <a href="mailto:syedasumayya764@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 </p>
 
 ---
