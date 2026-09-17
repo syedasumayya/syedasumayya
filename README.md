@@ -186,36 +186,6 @@ Embedded wireless sensor system for collecting and transmitting data over long-r
 
 ---
 
-## Current Focus
-
-```text
-AI Engineering
-├── Agentic AI & LLM Systems
-├── RAG & Intelligent Applications
-├── Computer Vision
-└── Applied Machine Learning
-
-Backend Engineering
-├── FastAPI & REST APIs
-├── Service Architecture
-├── Databases
-└── Deployment & Docker
-
-Robotics
-├── ROS 2
-├── Embedded Systems
-├── Sensors & Actuators
-└── Autonomous Systems
-```
-
----
-
-## Engineering Interests
-
-**Artificial Intelligence** · **Agentic Systems** · **Computer Vision** · **Robotics** · **Backend Architecture** · **Embedded Systems** · **Autonomous Systems**
-
----
-
 ## Connect
 
 <p align="center">
