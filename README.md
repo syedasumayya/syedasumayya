@@ -1,13 +1,13 @@
 # Syeda Sumayya Zahid
 
 
-<h3 align="center"> 🧠 AI Solutions Engineer & Researcher | ⚙️ Backend Developer | 🤖 Robotics Engineer </h3>
+<h3 align="center"> Software Engineer | AI & Robotics Engineer | Full-Stack & Mobile Developer </h3>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+Solutions+Engineer;Backend+Developer;Robotics+%26+Embedded+Systems;AI+Agents+%7C+LangGraph;Researcher+%26+Builder" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Robotics+Engineer;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
+</p>
 
-I build **AI-powered software, backend systems, and intelligent robotic applications** for real-world use cases.
-
-My work spans **agentic AI, machine learning, computer vision, API development, embedded systems, and robotics**, with a focus on turning research and prototypes into reliable software systems.
+I build **real-world software and intelligent systems** from web and mobile applications to AI-powered platforms, autonomous robots, and hardware-integrated solutions.
 
  <p align="center"> <a href="mailto:syedasumayya764@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 </p>
