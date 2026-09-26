@@ -20,9 +20,9 @@ I build **real-world software and intelligent systems** from web and mobile appl
 - 🌐 **Web Development** — Next.js, React, Node.js, TypeScript, modern web applications, REST APIs, and scalable systems
 - 📱 **Mobile Development** — Flutter, Dart, Swift, cross-platform applications, and native iOS development
 - ⚙️ **Backend Engineering** — REST APIs, FastAPI, Node.js, service architecture, databases, authentication, and deployment
-- 🤖 **Robotics Engineering** — ROS 2, embedded systems, sensors, autonomous navigation, robotic perception, and hardware integration
+- 🤖 **Robotics Engineering** — Embedded systems, sensors, autonomous navigation, robotic perception,and hardware integration
 - 🔗 **Agentic AI** — LangGraph and LangChain for workflow orchestration, tool calling, RAG pipelines, and multi-agent systems
-- 🔬 **Research & Development** — Model training, intelligent autonomous systems, experimentation, prototyping, and practical real-world applications
+- 🔬 **Research & Development** — Model training, intelligent autonomous systems, experimentation,and practical real-world applications
 
 ---
 
