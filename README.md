@@ -16,11 +16,13 @@ My work spans **agentic AI, machine learning, computer vision, API development, 
 
 ## About
 
-* 🧠 **AI Solutions Engineering** — Applied ML, computer vision, LLM applications, RAG, and agentic workflows
-* ⚙️ **Backend Engineering** — REST APIs, FastAPI, Node.js, service architecture, databases, and deployment
-* 🤖 **Robotics Engineering** — ROS, embedded systems, sensors, autonomous navigation, and robotic perception
-* 🔗 **Agentic AI** — LangGraph and LangChain for workflow orchestration and multi-agent systems
-* 🔬 **Research & Development** — Exploring intelligent autonomous systems and practical applications of AI
+- 🧠 **AI Solutions Engineering** — Applied ML, computer vision, LLM applications, RAG, model training, and agentic workflows
+- 🌐 **Web Development** — Next.js, React, Node.js, TypeScript, modern web applications, REST APIs, and scalable systems
+- 📱 **Mobile Development** — Flutter, Dart, Swift, cross-platform applications, and native iOS development
+- ⚙️ **Backend Engineering** — REST APIs, FastAPI, Node.js, service architecture, databases, authentication, and deployment
+- 🤖 **Robotics Engineering** — ROS 2, embedded systems, sensors, autonomous navigation, robotic perception, and hardware integration
+- 🔗 **Agentic AI** — LangGraph and LangChain for workflow orchestration, tool calling, RAG pipelines, and multi-agent systems
+- 🔬 **Research & Development** — Model training, intelligent autonomous systems, experimentation, prototyping, and practical real-world applications
 
 ---
 
@@ -28,78 +30,96 @@ My work spans **agentic AI, machine learning, computer vision, API development, 
 
 ### AI / Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/PyTorch-1F2937?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/TensorFlow-1F2937?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/scikit--learn-1F2937?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/OpenCV-1F2937?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
-  <img src="https://img.shields.io/badge/NumPy-1F2937?style=flat-square&logo=numpy&logoColor=4D77CF"/>
-  <img src="https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas&logoColor=150458"/>
-</p>
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2937?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-1F2937?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=flat-square&logo=numpy&logoColor=4D77CF)
+![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas&logoColor=150458)
 
 **Focus:** Deep Learning · Computer Vision · NLP · Model Training · RAG · LLM Applications
 
+---
+
+### Web Development
+
+![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1F2937?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Focus:** Modern Web Applications · Frontend Development · Full-Stack Development · REST APIs · Authentication · Responsive UI
+
+---
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-1F2937?style=flat-square&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-1F2937?style=flat-square&logo=dart&logoColor=0175C2)
+![Swift](https://img.shields.io/badge/Swift-1F2937?style=flat-square&logo=swift&logoColor=F05138)
+![iOS](https://img.shields.io/badge/iOS-1F2937?style=flat-square&logo=apple&logoColor=FFFFFF)
+
+**Focus:** Cross-Platform Apps · Flutter · Dart · Native iOS · Swift · API Integration · Mobile UI/UX
+
+---
+
 ### Agentic AI
 
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=flat-square&logo=langchain&logoColor=00A67E"/>
-  <img src="https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=00A67E"/>
-</p>
+![LangGraph](https://img.shields.io/badge/LangGraph-1F2937?style=flat-square&logo=langchain&logoColor=00A67E)
+![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=00A67E)
 
 **Focus:** AI Agents · Multi-Agent Workflows · Tool Calling · RAG Pipelines · LLM Orchestration
 
+---
+
 ### Backend & APIs
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/SQLite-1F2937?style=flat-square&logo=sqlite&logoColor=87CEEB"/>
-  <img src="https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=FFCA28"/>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-1F2937?style=flat-square&logo=sqlite&logoColor=87CEEB)
+![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-**Focus:** REST APIs · Backend Services · Data Validation · Authentication · Database Integration
+**Focus:** REST APIs · Backend Services · Microservices · Data Validation · Authentication · Database Integration · Deployment
+
+---
 
 ### Robotics & Embedded Systems
 
-<p>
-  <img src="https://img.shields.io/badge/ROS_2-1F2937?style=flat-square&logo=ros&logoColor=22314E"/>
-  <img src="https://img.shields.io/badge/C++-1F2937?style=flat-square&logo=cplusplus&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/C-1F2937?style=flat-square&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-1F2937?style=flat-square&logo=raspberrypi&logoColor=C51A4A"/>
-  <img src="https://img.shields.io/badge/ESP32-1F2937?style=flat-square&logo=espressif&logoColor=E7352C"/>
-  <img src="https://img.shields.io/badge/Arduino-1F2937?style=flat-square&logo=arduino&logoColor=00979D"/>
-  <img src="https://img.shields.io/badge/LoRa-1F2937?style=flat-square&logo=lora&logoColor=00AEEF"/>
-</p>
+![ROS 2](https://img.shields.io/badge/ROS_2-1F2937?style=flat-square&logo=ros&logoColor=22314E)
+![C++](https://img.shields.io/badge/C++-1F2937?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-1F2937?style=flat-square&logo=c&logoColor=A8B9CC)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1F2937?style=flat-square&logo=raspberrypi&logoColor=C51A4A)
+![ESP32](https://img.shields.io/badge/ESP32-1F2937?style=flat-square&logo=espressif&logoColor=E7352C)
+![Arduino](https://img.shields.io/badge/Arduino-1F2937?style=flat-square&logo=arduino&logoColor=00979D)
+![LoRa](https://img.shields.io/badge/LoRa-1F2937?style=flat-square&logo=semtech&logoColor=00AEEF)
 
-**Focus:** ROS 2 · Sensors · Embedded Systems · Computer Vision · Autonomous Systems · IoT
+**Focus:** ROS 2 · Sensors · Embedded Systems · Computer Vision · Autonomous Systems · IoT · Hardware Integration
+
+---
 
 ### Engineering Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Postman-1F2937?style=flat-square&logo=postman&logoColor=FF6C37"/>
-</p>
+![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-1F2937?style=flat-square&logo=postman&logoColor=FF6C37)
 
 ---
 
 ## Connect
 
-<p align="center">
-  <a href="https://github.com/syedasumayya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedasumayya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 
-<p align="center">
-  <sub>Building intelligent systems at the intersection of AI, software, and robotics.</sub>
-</p>
+---
+
+> **Building real-world software and intelligent systems at the intersection of AI, web, mobile, and robotics.**
